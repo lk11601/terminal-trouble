@@ -1,0 +1,22 @@
+{
+  "name": "trouble",
+  "version": "1.0.0",
+  "description": "A CLI re-make of the board game Trouble",
+  "main": "index.js",
+  "author": "Lucas Knight",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "clear": "^0.1.0",
+    "input": "^1.0.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^7.32.0 || ^8.2.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.2"
+  }
+}
