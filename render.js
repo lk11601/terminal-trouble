@@ -1,5 +1,5 @@
 import clear from "clear";
-import { calcPositions } from "./calc-positions-render.js";
+import { calcPositions } from "./calc-positions/render.js";
 
 const title = `  _____                _     _      
  |_   _| __ ___  _   _| |__ | | ___ 

@@ -17,3 +17,9 @@
 3. Ensure you have NPM installed and run "npm install" to install the required dependencies
 4. Ensure you have Node installed and run "npm start" to start the program
 5. Watch and enjoy!
+
+## To do
+
+- Make the board animate smoothly
+- Implement a scoreboard feature
+- Implement the ability to choose and change the strategy each player uses
